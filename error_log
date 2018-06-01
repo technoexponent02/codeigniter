@@ -1,0 +1,95 @@
+[27-Jun-2017 07:03:22 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1234
+[27-Jun-2017 07:03:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::results_array() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1234
+[27-Jun-2017 07:04:11 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1234
+[26-Aug-2017 10:05:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 193
+[26-Aug-2017 10:05:40 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 193
+[26-Aug-2017 10:15:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 207
+[26-Aug-2017 10:15:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 207
+[26-Aug-2017 10:15:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 207
+[26-Aug-2017 10:29:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:29:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:29:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:29:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:29:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:31:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:31:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:33:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:33:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:33:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:34:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:34:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:35:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:35:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:45:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 10:45:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:02:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:03:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:04:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:04:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:04:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:04:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[26-Aug-2017 13:05:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 206
+[11-Oct-2017 10:08:21 UTC] PHP Fatal error:  Call to undefined method Userdata::getDetailsOrderby() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1288
+[11-Oct-2017 10:11:16 UTC] PHP Parse error:  syntax error, unexpected 'cho' (T_STRING) in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1289
+[06-Nov-2017 07:34:39 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 454
+[06-Nov-2017 07:39:36 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 454
+[16-Nov-2017 07:31:09 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 461
+[16-Nov-2017 07:31:12 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 461
+[16-Nov-2017 08:23:52 UTC] PHP Fatal error:  Call to undefined function debug() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 371
+[16-Nov-2017 11:06:54 UTC] PHP Fatal error:  Call to undefined method Dashboard::layoutAdmin() in /home/twebezli/public_html/dev/babysits/application/controllers/admin/Dashboard.php on line 94
+[16-Nov-2017 11:09:39 UTC] PHP Fatal error:  Call to undefined method Dashboard::layoutAdmin() in /home/twebezli/public_html/dev/babysits/application/controllers/admin/Dashboard.php on line 94
+[16-Nov-2017 11:42:17 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/twebezli/public_html/dev/babysits/application/controllers/admin/Dashboard.php on line 101
+[16-Nov-2017 11:48:28 UTC] PHP Fatal error:  Call to undefined method Userdata::listFunction() in /home/twebezli/public_html/dev/babysits/application/controllers/admin/Dashboard.php on line 124
+[16-Nov-2017 13:08:07 UTC] PHP Fatal error:  Call to undefined method Userdata::sendUserEmail() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 2439
+[17-Nov-2017 10:09:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1605
+[17-Nov-2017 11:26:43 UTC] PHP Parse error:  syntax error, unexpected 'jsonResponse' (T_STRING) in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 1607
+[17-Nov-2017 12:57:46 UTC] PHP Fatal error:  Unsupported operand types in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1099
+[17-Nov-2017 12:58:39 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1101
+[17-Nov-2017 12:58:41 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1101
+[17-Nov-2017 12:59:16 UTC] PHP Fatal error:  Unsupported operand types in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1099
+[17-Nov-2017 12:59:18 UTC] PHP Fatal error:  Unsupported operand types in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1099
+[17-Nov-2017 13:34:38 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1105
+[17-Nov-2017 13:35:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1104
+[17-Nov-2017 13:35:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1104
+[17-Nov-2017 13:36:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 1104
+[17-Nov-2017 14:12:13 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 208
+[17-Nov-2017 14:19:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 2438
+[20-Nov-2017 10:35:26 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 2458
+[20-Nov-2017 10:39:43 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:41:46 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:41:57 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:42:58 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:44:55 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:47:03 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 222
+[20-Nov-2017 10:48:58 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 223
+[20-Nov-2017 10:51:59 UTC] PHP Fatal error:  Call to undefined function commonMailContent() in /home/twebezli/public_html/dev/babysits/application/models/Userdata.php on line 223
+[21-Nov-2017 13:05:21 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 45
+[23-Nov-2017 09:45:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 593
+[25-Nov-2017 09:32:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 92
+[25-Nov-2017 12:44:48 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/twebezli/public_html/dev/babysits/application/views/admin/user/withdraw/list.php on line 94
+[29-Nov-2017 10:44:48 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 2405
+[29-Nov-2017 10:44:50 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 2405
+[30-Nov-2017 12:02:20 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 255
+[30-Nov-2017 12:02:22 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 255
+[30-Nov-2017 12:02:34 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 255
+[30-Nov-2017 12:02:35 UTC] PHP Fatal error:  Call to undefined function dumpdata() in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 255
+[30-Nov-2017 13:19:24 UTC] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 256
+[30-Nov-2017 13:19:27 UTC] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/twebezli/public_html/dev/babysits/application/models/Webservicedata.php on line 256
+[05-Dec-2017 11:38:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 973
+[05-Dec-2017 12:07:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 495
+[06-Dec-2017 07:41:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twebezli/public_html/dev/babysits/application/controllers/Webservice.php on line 973

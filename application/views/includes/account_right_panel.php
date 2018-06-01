@@ -1,0 +1,1 @@
+<div>Right Panel</div>
